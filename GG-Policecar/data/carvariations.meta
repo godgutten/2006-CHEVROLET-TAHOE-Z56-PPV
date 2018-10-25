@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bxbugs123 / HighSpeed-Designs  (10/4/2018) -->
+<CVehicleModelInfoVariation>
+	<variationData>
+	  <Item>
+		 <modelName>06tahoe</modelName>
+		 <colors>
+			<Item>
+			   <indices content="char_array">
+				  134
+				  134
+				  134
+				  29
+				  53
+				  54
+			   </indices>
+			   <liveries />
+			</Item>
+		 </colors>
+		 <kits>
+			<Item>255_taho_modkit</Item>
+		 </kits>
+		 <windowsWithExposedEdges />
+		 <plateProbabilities>
+			<Probabilities>
+			   <Item>
+				  <Name>Police guv plate</Name>
+				  <Value value="100" />
+			   </Item>
+			</Probabilities>
+		 </plateProbabilities>
+		 <lightSettings value="158" />
+		 <sirenSettings value="722" />	<!-- 722 = R&B / 723 = B&B -->
+	  </Item>
+	</variationData>
+</CVehicleModelInfoVariation>
